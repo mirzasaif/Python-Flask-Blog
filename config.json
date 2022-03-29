@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost:3307/saif",
+    "prod_uri": "mysql://root:@localhost:3307/saif",
+    "fb_url": "https://facebook.com/mirxa.saif",
+    "tw_url": "https://twitter.com/arkhamknight10",
+    "gh_url": "https://github.com",
+    "blog_name": "Mirza Saif Ali Baig",
+    "tag_line": "Make Your Journey Awesome!",
+    "gmail-user": "grimlazy@gmail.com",
+    "gmail-password": "arkhamknight",
+    "about_text": "Hi! my name is Saif, I'm a Electrical Engineer and a Web Developer. Hard-working with a flair for creating elegant solutions in the least amount of time. Passionate about machine learning and cloud computing.",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "saif",
+    "admin_password": "popatlal",
+   "upload_location": "C:\\Users\\SAIF\\PycharmProjects\\pythonProject2\\static"
+  }
+
+
+}
